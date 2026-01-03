@@ -10,6 +10,7 @@
 # 🏭 Smart Warehouse Operations Dashboard
 
 End-to-end Smart Warehouse Operations dashboard built with PostgreSQL & Power BI for demand forecasting, inventory risk, and SKU-level decision-making.
+
 ---
 
 ## 📌 Project Overview
