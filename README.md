@@ -7,7 +7,7 @@
 
 ---
 
-# 🏭 Smart Warehouse Operations Dashboard
+# Smart Warehouse Operations Dashboard
 
 End-to-end Smart Warehouse Operations dashboard built with PostgreSQL & Power BI for demand forecasting, inventory risk, and SKU-level decision-making.
 
@@ -45,7 +45,7 @@ The dashboard combines **historical sales data, rolling demand forecasts, risk c
 
 ---
 
-## 🗄 Dataset & Data Model
+## 🧱 Dataset & Data Model
 
 The project uses a star-schema-style warehouse dataset including:
 
@@ -291,7 +291,7 @@ A short walkthrough showing how the **Smart Warehouse Operations Dashboard** wor
 [Click here to view the video walkthrough](https://github.com/Shohag-DataAnalyst/smart-warehouse-operations-dashboard/releases/tag/v1.0.0)
 
 ---
-## 🖼 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
 ### Warehouse Overview
 ![Overview](screenshots/overview.png)
