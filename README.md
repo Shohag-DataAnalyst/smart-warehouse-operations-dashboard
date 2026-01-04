@@ -279,6 +279,18 @@ This script creates all reporting views used by the dashboard, including:
    
 ---
 
+## 🎥 Dashboard Video Walkthrough
+
+A short walkthrough showing how the **Smart Warehouse Operations Dashboard** works, including:
+- KPI overview
+- Demand vs forecast analysis
+- Inventory risk detection
+- Recommended operational actions
+
+▶️ **Watch the dashboard demo video:**  
+[Click here to view the video walkthrough](demo/warehouse_operations_demo.mp4)
+
+---
 ## 🖼 Dashboard Screenshots
 
 ### Warehouse Overview
