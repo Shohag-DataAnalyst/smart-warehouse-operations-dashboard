@@ -288,7 +288,7 @@ A short walkthrough showing how the **Smart Warehouse Operations Dashboard** wor
 - Recommended operational actions
 
 ▶️ **Watch the dashboard demo video:**  
-[Click here to view the video walkthrough](https://raw.githubusercontent.com/Shohag-DataAnalyst/smart-warehouse-operations-dashboard/refs/heads/main/demo/warehouse_operations_demo.mp4)
+[Click here to view the video walkthrough](https://github.com/Shohag-DataAnalyst/smart-warehouse-operations-dashboard/releases/tag/v1.0.0)
 
 ---
 ## 🖼 Dashboard Screenshots
