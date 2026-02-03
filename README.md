@@ -15,7 +15,7 @@ End-to-end Smart Warehouse Operations dashboard built with PostgreSQL & Power BI
 
 ## 🔗 Live Interactive Dashboard
 👉 **View the live Power BI dashboard (no login required):**  
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiZGI1ZjkxYTYtNWQ1ZS00ODM2LTk5ZjMtNDM3YzA2YmI0NmY5IiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D)
+👉 https://datalel.com
 
 ## 📌 Project Overview
 
